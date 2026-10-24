@@ -1,0 +1,10 @@
+# build output
+*.exe
+*.zip
+inventra
+inventra-linux
+
+# local data (never commit business data)
+Inventra Data/
+dev-data/
+*.log
